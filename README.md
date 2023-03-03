@@ -5,7 +5,6 @@ Installation
 To compile and run the program, you will need a C compiler such as gcc, as well as the standard C libraries. You can install these on Ubuntu by running:
 
 ~~~
-Copy code
 sudo apt-get update
 sudo apt-get install build-essential
 ~~~
